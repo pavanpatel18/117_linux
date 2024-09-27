@@ -1,9 +1,5 @@
 # Command line Survival Guided for GIT and Linux
 
-## Who invented GIT and Linux?
-
-## Why use Linux?
-
 ## Top 10 Linux commands
 
 | Command       | Description                                                                                       | Example Usage                             |
